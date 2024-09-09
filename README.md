@@ -12,5 +12,17 @@
 ### Task 2 is completed on 29-aug-2024
 
 
+## Task 3 :
+#### Develop a program that allows users to store and manage contact information. The program should provide options to add a new contact by entering their name, phone number, and email address. It should also allow users to view their contact list, edit existing contacts, and delete contacts if needed. The program should store the contacts in memory or in a file for persistent storage.
+
+### Task 3 is completed on 05-sept-2024
+
+
+## Task 3 :
+#### Create a program that solves Sudoku puzzles automatically. The program should take an input grid representing an unsolved Sudoku puzzle and use an algorithm to fill in the missing numbers. It should use backtracking or other suitable techniques to explore possible solutions and find the correct arrangement of numbers for the puzzle. Once solved, the program should display the completed Sudoku grid.
+
+### Task 4 is completed on 09-sept-2024
+
+
 
 
